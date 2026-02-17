@@ -1,4 +1,4 @@
-# scotty - AI Health Coach MVP
+# scotty - AI Health Coach MVP 
 - Conversational AI coaching for training, nutrition & habits. 
 - Context-aware recommendations powered by GPT.
 - Built as an experimental MVP to explore scalable digital coaching.
