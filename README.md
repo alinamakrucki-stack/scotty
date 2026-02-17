@@ -7,10 +7,6 @@
 Scotty is an experimental AI-powered health coach designed to explore how conversational AI can deliver lightweight, personalized guidance for everyday training, nutrition and habit building.
 The project was built as a fast MVP to test whether AI-driven coaching can reduce the friction of traditional personal coaching models.
 
-## Preview
-![Scotty App](app_preview.png)
-
-
 ## Problem
 Traditional health coaching is often expensive, rigid and difficult to integrate into everyday life. At the same time, many digital health solutions rely on wearables or intensive tracking, creating additional cost and adoption barriers, even though many people want to live healthier lives.
 
@@ -78,3 +74,9 @@ Scotty explores how conversational AI can replace high-friction personal coachin
 
 ## Project Status
 Archived MVP. Built to explore AI-based digital coaching concepts and validate product assumptions.
+
+## Preview
+![Scotty App](app_preview.png)
+![Scotty Start](app_home.png)
+![Scotty GPT](app_gpt.png)
+![Scotty Overview](app_overview.png)
