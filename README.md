@@ -39,16 +39,13 @@ To explore a new generation of digital coaching: AI-driven, conversational and h
 **Architecture**
 - API-driven no-code setup enabling fast experimentation
 
-## Architecture
-(Simple Diagram)
-
 ## System Architecture
 User (Adalo App)
-↓
+->
 Xano Backend
-↓
+->
 OpenAI GPT API
-↓
+->
 Personalized AI Response
 
 ## Key Features
